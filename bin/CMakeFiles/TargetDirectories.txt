@@ -1,0 +1,10 @@
+/home/ydd/Desktop/CHAT/bin/CMakeFiles/rebuild_cache.dir
+/home/ydd/Desktop/CHAT/bin/CMakeFiles/edit_cache.dir
+/home/ydd/Desktop/CHAT/bin/src/CMakeFiles/rebuild_cache.dir
+/home/ydd/Desktop/CHAT/bin/src/CMakeFiles/edit_cache.dir
+/home/ydd/Desktop/CHAT/bin/src/server/CMakeFiles/rebuild_cache.dir
+/home/ydd/Desktop/CHAT/bin/src/server/CMakeFiles/edit_cache.dir
+/home/ydd/Desktop/CHAT/bin/src/server/CMakeFiles/ChatServer.dir
+/home/ydd/Desktop/CHAT/bin/src/client/CMakeFiles/rebuild_cache.dir
+/home/ydd/Desktop/CHAT/bin/src/client/CMakeFiles/edit_cache.dir
+/home/ydd/Desktop/CHAT/bin/src/client/CMakeFiles/ChatClient.dir
